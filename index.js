@@ -1,4 +1,3 @@
-// init project
 const express = require('express');
 const app = express();
 
